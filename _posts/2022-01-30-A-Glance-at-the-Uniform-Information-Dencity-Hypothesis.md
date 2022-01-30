@@ -2,7 +2,7 @@
 layout: post
 title:  "A Glance at the Uniform Information Density Hypothesis in Language Processing and Speech Production"
 date:   2022-01-30 20:30:34 +0100
-categories: Interesting Research
+categories: EMNLP-2021
 ---
 
 ## Introduction
@@ -13,7 +13,7 @@ If you are reading this post, I will, until prooven otherwise, assume that you a
 - Is there a connection between the length of production of particular sounds, or phones, and how frequently they appear in the phonetic inventory of a language?
 - How universal are such tendencies across languages?
 
-This line of research is, sadly, under-represented in AI research communication, but I have found two papers introduced in the Linguistic Theory section of the [2021 edition of Empirical Methods of Natural Language processing (EMNLP)](https://2021.emnlp.org/papers) conference which I will summarize here, each dealing with exactly those questions with a slightly different emphasis: The first one, ["Revisiting the Uniform Information Density Hypothesis"](https://aclanthology.org/2021.emnlp-main.74/), deals with human text processing, and the other, ["A surprisal–duration trade-off across and within the world’s languages"](https://aclanthology.org/2021.emnlp-main.73/), concentrates on human speech production. Both of those papers center around the very interesting but slightly esoteric-sounding information theoretic concept known as the Uniform Information Density Hypothesis (UID). The UID hypothesizes that language users, on some level of language structure, prefer information to be distributed evenly across a linguistic signal. If that sounds vague or dense, just stick with me and it will all make sense soon enough. If you're already familiar with the UID, feel free to skip the next section of this post, in which I'll explain the intuitions behind UID and how it relates to language processing. After that, I will detail the experiments in each of the research papers and their results and make some brief concluding remarks.
+This line of research is, sadly, under-represented in AI research communication, but I have found two papers introduced in the Linguistic Theory section of the [2021 Conference in Empirical Methods in Natural Language processing (EMNLP)](https://2021.emnlp.org/papers) which I will summarize here, each dealing with exactly those questions with a slightly different emphasis: The first one, ["Revisiting the Uniform Information Density Hypothesis"](https://aclanthology.org/2021.emnlp-main.74/), deals with human text processing, and the other, ["A surprisal–duration trade-off across and within the world’s languages"](https://aclanthology.org/2021.emnlp-main.73/), concentrates on human speech production. Both of those papers center around the very interesting but slightly esoteric-sounding information theoretic concept known as the Uniform Information Density Hypothesis (UID). The UID hypothesizes that language users, on some level of language structure, prefer information to be distributed evenly across a linguistic signal. If that sounds vague or dense, just stick with me and it will all make sense soon enough. If you're already familiar with the UID, feel free to skip the next section of this post, in which I'll explain the intuitions behind UID and how it relates to language processing. After that, I will detail the experiments in each of the research papers and their results and make some brief concluding remarks.
 
 ## A Gentle Overview of the Uniform Information Density Hypothesis (UID)
 
