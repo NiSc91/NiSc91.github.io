@@ -27,7 +27,7 @@ As an example, the following is my general tasks in the next 6 months, and the a
 - Reading theoretical articles about my subject of choice; approximately 4 hours/week
 - Administrative work, including meetings, responding and following up on emails, and applications for funding for external research visit; approximately 3 hours/week
 
-Have I followed my own advice so far? No, not as much as I could have. I have fallen into the trap multiple times of prioritizing things that interest me the most and piling up the mundane things, and as far as work/life-balance goes, let's just say that in the first half of january, I worked 12 hours/7 days a week for at least 2 weeks in a row to complete a deadline, and then crashed hard for the remainder. As common as it is, I am a good example of why not to treat your PHD program the same way you did any other university education.
+Have I followed my own advice so far? No, not as much as I could have. I have fallen into the trap multiple times of prioritizing things that interest me the most and piling up the mundane things, and as far as work/life-balance goes, let's just say that in the first half of january, I worked 12 hours/7 days a week for at least 2 weeks in a row to complete a deadline, and then crashed hard for the remainder. I get very hyper-focused on whatever I'm focusing on, for better or worse.
 
 ## Get some sleep!
 
@@ -42,7 +42,7 @@ I'm finding that taking sometime off in the hours before going to sleep to relax
 
 Another thing that can help with reducing mental chatter is exercise, which is why I've implemented a 20 minute routine before I sleep to tire myself out. Yoga stretches, weight-lifting, or general agility exercises seem to work to remind me that I have a body that needs things, and sometimes it needs sleep. Again, 'duh', you say, and now go sit in the corner and be quiet while I finnish this post.
 
-## realize that you have to make plans, and they are going to change
+## Realize that you're going to make plans, and they are going to change
 
 When I first applied for my PHD, I had to make a project proposal and a rough plan for each semester, detailing key goals and milestones on my project, courses I wanted to teach/take, and where I wanted to go for the compulsory guest research stay.
 Regardless of what kind of program you are taking, I'll venture to say that planning is going to come in at some very early point in the process.
