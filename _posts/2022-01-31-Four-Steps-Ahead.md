@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Four Steps Ahead - Advice For My Past Self on Planning and Structuring a PHD"
+title:  "Four Steps Ahead - Advice For My Past Self on Structuring a PHD"
 date:   2022-01-31 20:44:00 +0100
 categories: Productivity
 ---
@@ -14,7 +14,7 @@ In the following, though, I'll be outlining the four biggest insights I've had a
 
 ## Treat your PHD as a job
 
-A PHD-program is a full-time job. Yes, you have a lot of freedom and a lot of options for how you want to structure a PHD, particularly if you are working on a solo research project through a stipend from the university like I am, as opposed to a research group or an externally funded project with potential steak holders and conflicts of interest that might narrow your options and hold you more accountable to a certain extend. Yes, it is also an education, and the point of taking an education is to learn and be more process-oriented, at least ideally.
+A PHD-program is a full-time job. Yes, you have a lot of freedom and a lot of options for how you want to structure a PHD, particularly if you are working on a solo research project through a stipend from the university like I am, as opposed to a research group or an externally funded project with potential stakeholders and conflicts of interest that might narrow your options and hold you more accountable to a certain extend. Yes, it is also an education, and the point of taking an education is to learn and be more process-oriented, at least ideally.
 But no, it is a job, and you have to approach it as such. You'll be faced with a variety of different tasks and cooperations you have to manage, and you need to get good at structuring your day in accordance with what works for you. You'll have external obligations and numerous of people to be accountable to, so your work day need to intersect with normal 9-5 scheduling to at least a certain extend, even if you choose to work from home.
 
 One particular challenge I am still working to solve is to find a way to divide how much time I spend on different activities in accordance with my temperament. I have never been very good at multi-tasking; I prefer to work on one thing at a time in a very linear fashion, but that just isn't feasible when you have 3-4 different activities to manage each week.
