@@ -10,7 +10,7 @@ categories: Productivity
 As of this writing, I have been a PHD student for almost 5 months, and I've learned more about myself and how I operate in terms of work routines and structures than I ever did as a university student.
 I have had a mild burn-out already from over-working myself, and I have also experienced not feeling like I had any energy going forward (we'll talk about perfectionism in a later post, not to worry).
 
-In the following, though, I'll be outlining the four biggest insights I've had as a PHD student in my last 5 months with respect to strucgturing my day.
+In the following, though, I'll be outlining the four biggest insights I've had as a PHD student in my last 5 months with respect to structuring my day.
 
 ## Treat your PHD as a job
 
