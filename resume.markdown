@@ -141,31 +141,39 @@ April 2026
 ## 2026
 
 **DAMETA: An LLM Benchmark for Danish Metaphor Interpretation with Systematically Varied Distractors**  
-LREC 2026 
+Schneidermann, N. S., Nimb, S., Norman, N. C. H., Olsen, S., & Pedersen, B. S. (2026). DAMETA: An LLM Benchmark for Danish Metaphor Interpretation with Systematically Varied Distractors. I Proceedings of Language Resources and Evaluation Conference [https://lrec.elra.info/lrec2026-main-930]
 
 
 ## 2025
 
 **Lexical-Semantic Resources as a Culture-Aware Basis for Benchmarking and Evaluation of LLMs**  
-eLex 2025
+Norman, N., Nimb, S., Olsen, S., Schneidermann, N., & Pedersen, B. S. (2025). Lexical-Semantic 
+Resources as a Culture-Aware Basis for Benchmarking and Evaluation of LLMs. Electronic 
+lexicography in the 21st century (eLex 2025), pp. 517–533.
 
 
 ## 2023
 
 **Probing for Hyperbole in Pre-Trained Language Models**  
-ACL-SRW 2023
+Schneidermann, N., Hershcovich, D., & Pedersen, B. (2023). Probing for Hyperbole in Pre
+Trained Language Models. Proceedings of the 61st Annual Meeting of the Association for 
+Computational Linguistics - - Student Research Workshop (ACL-SRW 2023), pp. 200–211.
 
 
 ## 2022
 
 **Evaluating a New Danish Sentiment Resource: The Danish Sentiment Lexicon (DSL)**  
-SALLD-2 Workshop
+Schneidermann, N., & Pedersen, B. (2022). Evaluating a New Danish Sentiment Resource: The 
+Danish Sentiment Lexicon, DSL. Proceedings of the 2nd Workshop on Sentiment Analysis and 
+Linguistic Linked Data (SALLD-2), pp. 19–24.
 
 
 ## 2020
 
 **Towards a Gold Standard for Evaluating Danish Word Embeddings**  
-LREC 2020
+Schneidermann, N., Hvingelby, R., & Pedersen, B. (2020). Towards a Gold Standard for 
+Evaluating Danish Word Embeddings. Proceedings of the 12th Language Resources and Evaluation 
+Conference (LREC 2020), pp. 4754–4763.
 
 ---
 
