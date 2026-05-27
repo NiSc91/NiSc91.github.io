@@ -9,7 +9,6 @@ permalink: /resume/
 ## Contact
 
 - Email: ninasc91@gmail.com
-- Phone: +45 2423-3936
 - GitHub: [github.com/NiSc91](https://github.com/NiSc91)
 
 ---
@@ -32,6 +31,43 @@ Currently seeking:
 - ML/NLP accessibility work
 
 ---
+# Education
+
+## PhD in Computational Linguistics
+
+**Copenhagen University**  
+2021 – Present
+
+Research focus:
+- figurative language modeling
+- explainable AI
+- Danish NLP
+
+---
+
+## MSc in IT and Cognition
+
+**Copenhagen University**  
+2016 – 2019
+
+---
+
+## BA in Linguistics
+
+**Copenhagen University**  
+2013 – 2016
+
+---
+
+# Publications
+
+- *Probing Pre-trained Language Models for Hyperbole Knowledge* (ACL 2023)
+
+- *Evaluation of Danish Sentiment Resource (DSL)*  
+  SALLD-2 Workshop at LREC 2022
+
+- *Construction of a Word Similarity Dataset for Danish Word Embeddings*  
+  LREC 2020
 
 # Skills & Expertise
 
@@ -143,43 +179,6 @@ Currently seeking:
 
 ---
 
-# Education
-
-## PhD in Computational Linguistics
-
-**Copenhagen University**  
-2021 – Present
-
-Research focus:
-- figurative language modeling
-- explainable AI
-- Danish NLP
-
----
-
-## MSc in IT and Cognition
-
-**Copenhagen University**  
-2016 – 2019
-
----
-
-## BA in Linguistics
-
-**Copenhagen University**  
-2013 – 2016
-
----
-
-# Publications
-
-- *Probing Pre-trained Language Models for Hyperbole Knowledge* (ACL 2023)
-
-- *Evaluation of Danish Sentiment Resource (DSL)*  
-  SALLD-2 Workshop at LREC 2022
-
-- *Construction of a Word Similarity Dataset for Danish Word Embeddings*  
-  LREC 2020
 
 ---
 
