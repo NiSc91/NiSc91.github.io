@@ -43,9 +43,7 @@ Combines computational linguistics expertise with extensive experience navigatin
 - Explainable AI approaches for NLP
 - Hyperbole and metaphor interpretation
 
-### Visiting Researcher
-
-**Vrije Universiteit Amsterdam — CLTL Lab**  
+Visiting Researcher **Vrije Universiteit Amsterdam — CLTL Lab**  
 Feb 2023 – Aug 2023
 
 Collaborated with Prof. Piek Vossen on:
