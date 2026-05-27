@@ -37,8 +37,7 @@ Combines computational linguistics expertise with extensive experience navigatin
 **University of Copenhagen — Center for Language Technology (CST)**  
 2021 – Present
 
-### Research Focus
-
+Research Focus
 - Figurative language modeling for Danish
 - Explainable AI approaches for NLP
 - Hyperbole and metaphor interpretation
@@ -51,14 +50,10 @@ Collaborated with Prof. Piek Vossen on:
 - frame semantics
 - computational linguistics research
 
----
-
 ## MSc in IT and Cognition
 
 **University of Copenhagen**  
 2016 – 2019
-
----
 
 ## BA in Linguistics
 
