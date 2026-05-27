@@ -1,10 +1,9 @@
-
 ---
 layout: page
 title: resume
 permalink: /resume/
 ---
 
-# Resume and Side Projects
+# Resume and Side Projects go here
 
-# PDF? link to PDf? Working on it.... 
+
