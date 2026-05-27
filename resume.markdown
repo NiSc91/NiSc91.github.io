@@ -8,8 +8,8 @@ permalink: /resume/
 
 ### PhD Fellow | Computational Linguist | Accidental Accessibility Architect
 
-- Email: ninasc@hum.ku.dk
-- Email: ninasc91@gmail.com
+- Email (Academia): ninasc@hum.ku.dk
+- Email (Personal): ninasc91@gmail.com
 - GitHub: [github.com/NiSc91](https://github.com/NiSc91)
 - Google Scholar: [Nina Skovgaard Schneidermann](https://scholar.google.com/citations?user=gs5vvQYAAAAJ&hl=en)
 
