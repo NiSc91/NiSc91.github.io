@@ -85,7 +85,6 @@ Feb 2022 – July 2022
   - sentiment analysis
   - text mining
 
----
 
 ### Guest Lecturer — Digital Design (MA Level)
 
@@ -97,7 +96,6 @@ April 2026
   - inclusive design
   - accessibility workflows
 
----
 
 # Research & Consultancy
 
@@ -110,7 +108,6 @@ April 2026
 - Building evaluation benchmarks for non-literal language understanding
 - Evaluating multi-task learning architectures for low-resource NLP tasks
 
----
 
 ## Linguistic Consultant & Data Architect
 
@@ -122,8 +119,7 @@ April 2026
   - speech recognition
   - sentiment analysis
   - Danish word embeddings
-
----
+  
 
 ## Accessibility & AI Consultant
 
@@ -145,30 +141,26 @@ April 2026
 ## 2026
 
 **DAMETA: An LLM Benchmark for Danish Metaphor Interpretation with Systematically Varied Distractors**  
-LREC 2026 — Submitted
+LREC 2026 
 
----
 
 ## 2025
 
 **Lexical-Semantic Resources as a Culture-Aware Basis for Benchmarking and Evaluation of LLMs**  
 eLex 2025
 
----
 
 ## 2023
 
 **Probing for Hyperbole in Pre-Trained Language Models**  
 ACL-SRW 2023
 
----
 
 ## 2022
 
 **Evaluating a New Danish Sentiment Resource: The Danish Sentiment Lexicon (DSL)**  
 SALLD-2 Workshop
 
----
 
 ## 2020
 
@@ -221,8 +213,6 @@ Funding awarded for:
 - Sentiment analysis
 - Explainable AI
 
----
-
 ## Technical Skills
 
 - Python
@@ -231,15 +221,12 @@ Funding awarded for:
 - Git
 - Docker
 
----
-
 ## Accessibility Technologies
 
 Expert user and evaluator of:
 - JAWS
 - NVDA
 - VoiceOver
-
 ---
 
 ## Languages
